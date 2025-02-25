@@ -16,4 +16,4 @@ consult hours in advance of the session.
 
 \* What is a Short Course? An RC Short Course is a training that provides 
 an in-depth understanding of a concept, system, or tool. You can expect to 
-leave a "Short Course" with a solid grasp of the topic.
+leave a "Short Course" with a solid grasp of the topic
